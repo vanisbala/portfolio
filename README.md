@@ -17,10 +17,8 @@ Here you can find the description about myself, a recent photo, video and links 
 - How to use bootstrap layouts.
 - How to modify bootstrap layouts,contents and styles according to our requirement.
 - How to use google fonts to make our page look professional.
-- I learned how to use css flex and design a responsive web page.
+- I learned how to use css grid as well as flex and design a responsive web page.
 - Also, I learned how to use media and viewport to create a resposive webpage.
-
-![Website-Image]
 
 ## Built with
 
